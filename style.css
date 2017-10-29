@@ -1,0 +1,26 @@
+
+
+.parent{
+	background-color: pink;
+}
+
+
+.table{
+	border: 1px solid gray;
+}
+
+
+.cell{
+    height: 25vh;
+    width: 33vw;
+    border: 1px solid gray
+}
+
+.img{
+     height: 80%;
+    width: 100%;
+}
+
+.row{
+    
+}
